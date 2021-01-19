@@ -1,0 +1,119 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* header */
+
+#img-logo{
+  margin-left: 120px;
+  margin-top: 5px;
+  /* vertical-align: middle; */
+}
+
+h1{
+  display: inline;
+  font-style: oblique;
+  /* vertical-align: middle; */
+
+}
+
+.vertical-align-middle{
+  vertical-align: middle;
+}
+
+/* main */
+main{
+  background-color: #aac4d2;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.corpo{
+  background-color: #fff;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+  padding: 20px;
+  border-radius: 20px;
+
+}
+
+section{
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+  padding: 15px;
+}
+
+.button{
+  border: 1px solid #fff;
+  border-radius: 5px;
+  padding: 10px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 10px 2px;
+  cursor: pointer;
+}
+
+.bordered{
+  border: 1px solid #585555;
+}
+
+.elenco{
+  padding-top: 15px;
+}
+
+input{
+width: 62px;
+height: 22px;
+display: inline-block;
+border-radius: 15px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 13px;
+}
+
+h6,h3{
+  margin-top: 10px;
+}
+
+.controller{
+  color: green;
+}
+
+.blue{
+  background-color: #008CBA;;
+  color: white;
+}
+
+.orange{
+  background-color: orange;
+  color: white;
+}
+.purple{
+  background-color: purple;
+  color: white;
+}
+.green{
+  background-color: green;
+  color: white;
+}
+
+.light-green{
+  background-color: #64C0A9;
+  color: white;
+}
+.pink{
+  background-color: pink;
+  color: white;
+}
+
+.acido{
+  background-color: #B0C926;
+  color: white;
+  
+}
